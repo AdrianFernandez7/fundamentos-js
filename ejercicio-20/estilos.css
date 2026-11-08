@@ -1,0 +1,67 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #f4f4f4;
+  margin: 0;
+  color: #222;
+}
+
+main {
+  max-width: 700px;
+  margin: 20px auto;
+  padding: 0 15px;
+}
+
+h1 {
+  color: #1a4d8f;
+}
+
+section {
+  background: white;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  padding: 10px 15px;
+  margin-bottom: 15px;
+}
+
+.enunciado {
+  border-left: 5px solid #1a4d8f;
+}
+
+.entrada {
+  border-left: 5px solid #e0a000;
+}
+
+.salida {
+  border-left: 5px solid #2e9b3e;
+}
+
+label, input {
+  display: block;
+  margin: 5px 0;
+}
+
+input {
+  padding: 5px;
+  width: 95%;
+}
+
+button {
+  background: #1a4d8f;
+  color: white;
+  border: none;
+  padding: 8px 16px;
+  border-radius: 4px;
+  cursor: pointer;
+  margin-top: 5px;
+}
+
+button:hover {
+  background: #123763;
+}
+
+pre {
+  white-space: pre-wrap;
+  background: #eee;
+  padding: 10px;
+  min-height: 30px;
+}
