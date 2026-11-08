@@ -2,6 +2,8 @@
 
 Proyecto de la **Actividad 3 - Puesta en marcha del entorno profesional** (DWEC, UT01).
 
+Autor: Adrián Fernández Parra
+
 Contiene 21 ejercicios de fundamentos de JavaScript. Cada ejercicio esta en su propia carpeta (`ejercicio-01` ... `ejercicio-21`) con `index.html`, `estilos.css` y `app.js`.
 
 ## Como usarlo
